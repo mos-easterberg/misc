@@ -1,0 +1,9 @@
+C:\Users\mosterbe\AppData\Local\Temporary Projects\Indictus.Misc.DictTest\bin\Debug\Indictus.Misc.DictTest.exe.config
+C:\Users\mosterbe\AppData\Local\Temporary Projects\Indictus.Misc.DictTest\bin\Debug\Indictus.Misc.DictTest.exe
+C:\Users\mosterbe\AppData\Local\Temporary Projects\Indictus.Misc.DictTest\bin\Debug\Indictus.Misc.DictTest.pdb
+C:\Users\mosterbe\AppData\Local\Temporary Projects\Indictus.Misc.DictTest\obj\Debug\Indictus.Misc.DictTest.csprojResolveAssemblyReference.cache
+C:\Users\mosterbe\AppData\Local\Temporary Projects\Indictus.Misc.DictTest\obj\Debug\Indictus.Misc.DictTest.Form1.resources
+C:\Users\mosterbe\AppData\Local\Temporary Projects\Indictus.Misc.DictTest\obj\Debug\Indictus.Misc.DictTest.Properties.Resources.resources
+C:\Users\mosterbe\AppData\Local\Temporary Projects\Indictus.Misc.DictTest\obj\Debug\Indictus.Misc.DictTest.csproj.GenerateResource.Cache
+C:\Users\mosterbe\AppData\Local\Temporary Projects\Indictus.Misc.DictTest\obj\Debug\Indictus.Misc.DictTest.exe
+C:\Users\mosterbe\AppData\Local\Temporary Projects\Indictus.Misc.DictTest\obj\Debug\Indictus.Misc.DictTest.pdb

@@ -1,0 +1,6 @@
+C:\Users\mosterbe\AppData\Local\Temporary Projects\IndexerApplication\bin\Debug\IndexerApplication.exe.config
+C:\Users\mosterbe\AppData\Local\Temporary Projects\IndexerApplication\bin\Debug\IndexerApplication.exe
+C:\Users\mosterbe\AppData\Local\Temporary Projects\IndexerApplication\bin\Debug\IndexerApplication.pdb
+C:\Users\mosterbe\AppData\Local\Temporary Projects\IndexerApplication\obj\Debug\IndexerApplication.csprojResolveAssemblyReference.cache
+C:\Users\mosterbe\AppData\Local\Temporary Projects\IndexerApplication\obj\Debug\IndexerApplication.exe
+C:\Users\mosterbe\AppData\Local\Temporary Projects\IndexerApplication\obj\Debug\IndexerApplication.pdb

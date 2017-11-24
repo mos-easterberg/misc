@@ -1,0 +1,6 @@
+C:\Users\mosterbe\AppData\Local\Temporary Projects\SampleApp\bin\Debug\SampleApp.exe.config
+C:\Users\mosterbe\AppData\Local\Temporary Projects\SampleApp\bin\Debug\SampleApp.exe
+C:\Users\mosterbe\AppData\Local\Temporary Projects\SampleApp\bin\Debug\SampleApp.pdb
+C:\Users\mosterbe\AppData\Local\Temporary Projects\SampleApp\obj\Debug\SampleApp.csprojResolveAssemblyReference.cache
+C:\Users\mosterbe\AppData\Local\Temporary Projects\SampleApp\obj\Debug\SampleApp.exe
+C:\Users\mosterbe\AppData\Local\Temporary Projects\SampleApp\obj\Debug\SampleApp.pdb

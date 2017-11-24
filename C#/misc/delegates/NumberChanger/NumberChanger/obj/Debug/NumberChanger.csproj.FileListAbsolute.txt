@@ -1,0 +1,6 @@
+C:\Users\mosterbe\AppData\Local\Temporary Projects\NumberChanger\bin\Debug\NumberChanger.exe.config
+C:\Users\mosterbe\AppData\Local\Temporary Projects\NumberChanger\bin\Debug\NumberChanger.exe
+C:\Users\mosterbe\AppData\Local\Temporary Projects\NumberChanger\bin\Debug\NumberChanger.pdb
+C:\Users\mosterbe\AppData\Local\Temporary Projects\NumberChanger\obj\Debug\NumberChanger.csprojResolveAssemblyReference.cache
+C:\Users\mosterbe\AppData\Local\Temporary Projects\NumberChanger\obj\Debug\NumberChanger.exe
+C:\Users\mosterbe\AppData\Local\Temporary Projects\NumberChanger\obj\Debug\NumberChanger.pdb

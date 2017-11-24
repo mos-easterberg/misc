@@ -1,0 +1,6 @@
+D:\dev\misc\C#\misc\attributes\custom_attrs\custom_attrs\bin\Debug\custom_attrs.exe.config
+D:\dev\misc\C#\misc\attributes\custom_attrs\custom_attrs\bin\Debug\custom_attrs.exe
+D:\dev\misc\C#\misc\attributes\custom_attrs\custom_attrs\bin\Debug\custom_attrs.pdb
+D:\dev\misc\C#\misc\attributes\custom_attrs\custom_attrs\obj\Debug\custom_attrs.csprojResolveAssemblyReference.cache
+D:\dev\misc\C#\misc\attributes\custom_attrs\custom_attrs\obj\Debug\custom_attrs.exe
+D:\dev\misc\C#\misc\attributes\custom_attrs\custom_attrs\obj\Debug\custom_attrs.pdb

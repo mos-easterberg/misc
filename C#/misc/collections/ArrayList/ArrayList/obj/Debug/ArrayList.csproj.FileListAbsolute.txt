@@ -1,0 +1,6 @@
+D:\dev\misc\C#\misc\collections\ArrayList\ArrayList\bin\Debug\ArrayList.exe.config
+D:\dev\misc\C#\misc\collections\ArrayList\ArrayList\bin\Debug\ArrayList.exe
+D:\dev\misc\C#\misc\collections\ArrayList\ArrayList\bin\Debug\ArrayList.pdb
+D:\dev\misc\C#\misc\collections\ArrayList\ArrayList\obj\Debug\ArrayList.csprojResolveAssemblyReference.cache
+D:\dev\misc\C#\misc\collections\ArrayList\ArrayList\obj\Debug\ArrayList.exe
+D:\dev\misc\C#\misc\collections\ArrayList\ArrayList\obj\Debug\ArrayList.pdb

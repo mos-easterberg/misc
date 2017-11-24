@@ -1,0 +1,6 @@
+D:\dev\misc\C#\misc\inheritance\MultipleInheritanceApplication\MultipleInheritanceApplication\bin\Debug\MultipleInheritanceApplication.exe.config
+D:\dev\misc\C#\misc\inheritance\MultipleInheritanceApplication\MultipleInheritanceApplication\bin\Debug\MultipleInheritanceApplication.exe
+D:\dev\misc\C#\misc\inheritance\MultipleInheritanceApplication\MultipleInheritanceApplication\bin\Debug\MultipleInheritanceApplication.pdb
+D:\dev\misc\C#\misc\inheritance\MultipleInheritanceApplication\MultipleInheritanceApplication\obj\Debug\MultipleInheritanceApplication.csprojResolveAssemblyReference.cache
+D:\dev\misc\C#\misc\inheritance\MultipleInheritanceApplication\MultipleInheritanceApplication\obj\Debug\MultipleInheritanceApplication.exe
+D:\dev\misc\C#\misc\inheritance\MultipleInheritanceApplication\MultipleInheritanceApplication\obj\Debug\MultipleInheritanceApplication.pdb

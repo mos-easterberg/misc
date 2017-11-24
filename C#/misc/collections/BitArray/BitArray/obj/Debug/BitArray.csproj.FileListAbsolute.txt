@@ -1,0 +1,6 @@
+D:\dev\misc\C#\misc\collections\BitArray\BitArray\bin\Debug\BitArray.exe.config
+D:\dev\misc\C#\misc\collections\BitArray\BitArray\bin\Debug\BitArray.exe
+D:\dev\misc\C#\misc\collections\BitArray\BitArray\bin\Debug\BitArray.pdb
+D:\dev\misc\C#\misc\collections\BitArray\BitArray\obj\Debug\BitArray.csprojResolveAssemblyReference.cache
+D:\dev\misc\C#\misc\collections\BitArray\BitArray\obj\Debug\BitArray.exe
+D:\dev\misc\C#\misc\collections\BitArray\BitArray\obj\Debug\BitArray.pdb

@@ -1,0 +1,6 @@
+C:\Users\mosterbe\AppData\Local\Temporary Projects\CalculatorApplication\bin\Debug\CalculatorApplication.exe.config
+C:\Users\mosterbe\AppData\Local\Temporary Projects\CalculatorApplication\bin\Debug\CalculatorApplication.exe
+C:\Users\mosterbe\AppData\Local\Temporary Projects\CalculatorApplication\bin\Debug\CalculatorApplication.pdb
+C:\Users\mosterbe\AppData\Local\Temporary Projects\CalculatorApplication\obj\Debug\CalculatorApplication.csprojResolveAssemblyReference.cache
+C:\Users\mosterbe\AppData\Local\Temporary Projects\CalculatorApplication\obj\Debug\CalculatorApplication.exe
+C:\Users\mosterbe\AppData\Local\Temporary Projects\CalculatorApplication\obj\Debug\CalculatorApplication.pdb

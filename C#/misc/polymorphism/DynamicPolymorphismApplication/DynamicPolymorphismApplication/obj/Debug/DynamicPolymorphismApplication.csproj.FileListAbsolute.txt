@@ -1,0 +1,6 @@
+D:\dev\misc\C#\misc\polymorphism\DynamicPolymorphismApplication\DynamicPolymorphismApplication\bin\Debug\DynamicPolymorphismApplication.exe.config
+D:\dev\misc\C#\misc\polymorphism\DynamicPolymorphismApplication\DynamicPolymorphismApplication\bin\Debug\DynamicPolymorphismApplication.exe
+D:\dev\misc\C#\misc\polymorphism\DynamicPolymorphismApplication\DynamicPolymorphismApplication\bin\Debug\DynamicPolymorphismApplication.pdb
+D:\dev\misc\C#\misc\polymorphism\DynamicPolymorphismApplication\DynamicPolymorphismApplication\obj\Debug\DynamicPolymorphismApplication.csprojResolveAssemblyReference.cache
+D:\dev\misc\C#\misc\polymorphism\DynamicPolymorphismApplication\DynamicPolymorphismApplication\obj\Debug\DynamicPolymorphismApplication.exe
+D:\dev\misc\C#\misc\polymorphism\DynamicPolymorphismApplication\DynamicPolymorphismApplication\obj\Debug\DynamicPolymorphismApplication.pdb

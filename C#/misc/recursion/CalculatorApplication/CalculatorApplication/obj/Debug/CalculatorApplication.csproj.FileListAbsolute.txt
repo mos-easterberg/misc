@@ -1,0 +1,6 @@
+D:\dev\misc\C#\misc\recursion\CalculatorApplication\CalculatorApplication\bin\Debug\CalculatorApplication.exe.config
+D:\dev\misc\C#\misc\recursion\CalculatorApplication\CalculatorApplication\bin\Debug\CalculatorApplication.exe
+D:\dev\misc\C#\misc\recursion\CalculatorApplication\CalculatorApplication\bin\Debug\CalculatorApplication.pdb
+D:\dev\misc\C#\misc\recursion\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.csprojResolveAssemblyReference.cache
+D:\dev\misc\C#\misc\recursion\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.exe
+D:\dev\misc\C#\misc\recursion\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.pdb

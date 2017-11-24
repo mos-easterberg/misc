@@ -1,0 +1,6 @@
+C:\Users\mosterbe\AppData\Local\Temporary Projects\queue\bin\Debug\queue.exe.config
+C:\Users\mosterbe\AppData\Local\Temporary Projects\queue\bin\Debug\queue.exe
+C:\Users\mosterbe\AppData\Local\Temporary Projects\queue\bin\Debug\queue.pdb
+C:\Users\mosterbe\AppData\Local\Temporary Projects\queue\obj\Debug\queue.csprojResolveAssemblyReference.cache
+C:\Users\mosterbe\AppData\Local\Temporary Projects\queue\obj\Debug\queue.exe
+C:\Users\mosterbe\AppData\Local\Temporary Projects\queue\obj\Debug\queue.pdb

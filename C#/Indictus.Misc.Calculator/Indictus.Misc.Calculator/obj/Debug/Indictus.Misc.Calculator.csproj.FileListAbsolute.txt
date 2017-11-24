@@ -1,9 +1,0 @@
-D:\dev\misc\C#\Indictus.Misc.Calculator\Indictus.Misc.Calculator\obj\Debug\Indictus.Misc.Calculator.csprojResolveAssemblyReference.cache
-D:\dev\misc\C#\Indictus.Misc.Calculator\Indictus.Misc.Calculator\obj\Debug\Indictus.Misc.Calculator.frmMain.resources
-D:\dev\misc\C#\Indictus.Misc.Calculator\Indictus.Misc.Calculator\obj\Debug\Indictus.Misc.Calculator.Properties.Resources.resources
-D:\dev\misc\C#\Indictus.Misc.Calculator\Indictus.Misc.Calculator\obj\Debug\Indictus.Misc.Calculator.csproj.GenerateResource.Cache
-D:\dev\misc\C#\Indictus.Misc.Calculator\Indictus.Misc.Calculator\bin\Debug\Indictus.Misc.Calculator.exe.config
-D:\dev\misc\C#\Indictus.Misc.Calculator\Indictus.Misc.Calculator\bin\Debug\Indictus.Misc.Calculator.exe
-D:\dev\misc\C#\Indictus.Misc.Calculator\Indictus.Misc.Calculator\bin\Debug\Indictus.Misc.Calculator.pdb
-D:\dev\misc\C#\Indictus.Misc.Calculator\Indictus.Misc.Calculator\obj\Debug\Indictus.Misc.Calculator.exe
-D:\dev\misc\C#\Indictus.Misc.Calculator\Indictus.Misc.Calculator\obj\Debug\Indictus.Misc.Calculator.pdb

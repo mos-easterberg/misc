@@ -1,0 +1,6 @@
+C:\Users\mosterbe\AppData\Local\Temporary Projects\OperatorOvlApplication2\bin\Debug\OperatorOvlApplication2.exe.config
+C:\Users\mosterbe\AppData\Local\Temporary Projects\OperatorOvlApplication2\bin\Debug\OperatorOvlApplication2.exe
+C:\Users\mosterbe\AppData\Local\Temporary Projects\OperatorOvlApplication2\bin\Debug\OperatorOvlApplication2.pdb
+C:\Users\mosterbe\AppData\Local\Temporary Projects\OperatorOvlApplication2\obj\Debug\OperatorOvlApplication2.csprojResolveAssemblyReference.cache
+C:\Users\mosterbe\AppData\Local\Temporary Projects\OperatorOvlApplication2\obj\Debug\OperatorOvlApplication2.exe
+C:\Users\mosterbe\AppData\Local\Temporary Projects\OperatorOvlApplication2\obj\Debug\OperatorOvlApplication2.pdb

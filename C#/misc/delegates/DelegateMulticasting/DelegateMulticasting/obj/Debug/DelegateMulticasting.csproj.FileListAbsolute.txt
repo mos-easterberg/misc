@@ -1,0 +1,6 @@
+C:\Users\mosterbe\AppData\Local\Temporary Projects\DelegateMulticasting\bin\Debug\DelegateMulticasting.exe.config
+C:\Users\mosterbe\AppData\Local\Temporary Projects\DelegateMulticasting\bin\Debug\DelegateMulticasting.exe
+C:\Users\mosterbe\AppData\Local\Temporary Projects\DelegateMulticasting\bin\Debug\DelegateMulticasting.pdb
+C:\Users\mosterbe\AppData\Local\Temporary Projects\DelegateMulticasting\obj\Debug\DelegateMulticasting.csprojResolveAssemblyReference.cache
+C:\Users\mosterbe\AppData\Local\Temporary Projects\DelegateMulticasting\obj\Debug\DelegateMulticasting.exe
+C:\Users\mosterbe\AppData\Local\Temporary Projects\DelegateMulticasting\obj\Debug\DelegateMulticasting.pdb

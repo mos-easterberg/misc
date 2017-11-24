@@ -1,0 +1,6 @@
+D:\dev\misc\C#\misc\collections\Hashtable\Hashtable\bin\Debug\Hashtable.exe.config
+D:\dev\misc\C#\misc\collections\Hashtable\Hashtable\bin\Debug\Hashtable.exe
+D:\dev\misc\C#\misc\collections\Hashtable\Hashtable\bin\Debug\Hashtable.pdb
+D:\dev\misc\C#\misc\collections\Hashtable\Hashtable\obj\Debug\Hashtable.csprojResolveAssemblyReference.cache
+D:\dev\misc\C#\misc\collections\Hashtable\Hashtable\obj\Debug\Hashtable.exe
+D:\dev\misc\C#\misc\collections\Hashtable\Hashtable\obj\Debug\Hashtable.pdb

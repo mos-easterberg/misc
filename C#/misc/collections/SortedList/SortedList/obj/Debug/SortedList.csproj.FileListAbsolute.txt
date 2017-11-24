@@ -1,0 +1,6 @@
+D:\dev\misc\C#\misc\collections\SortedList\SortedList\bin\Debug\SortedList.exe.config
+D:\dev\misc\C#\misc\collections\SortedList\SortedList\bin\Debug\SortedList.exe
+D:\dev\misc\C#\misc\collections\SortedList\SortedList\bin\Debug\SortedList.pdb
+D:\dev\misc\C#\misc\collections\SortedList\SortedList\obj\Debug\SortedList.csprojResolveAssemblyReference.cache
+D:\dev\misc\C#\misc\collections\SortedList\SortedList\obj\Debug\SortedList.exe
+D:\dev\misc\C#\misc\collections\SortedList\SortedList\obj\Debug\SortedList.pdb

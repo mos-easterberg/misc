@@ -1,0 +1,6 @@
+C:\Users\mosterbe\AppData\Local\Temporary Projects\struct_test\bin\Debug\struct_test.exe.config
+C:\Users\mosterbe\AppData\Local\Temporary Projects\struct_test\bin\Debug\struct_test.exe
+C:\Users\mosterbe\AppData\Local\Temporary Projects\struct_test\bin\Debug\struct_test.pdb
+C:\Users\mosterbe\AppData\Local\Temporary Projects\struct_test\obj\Debug\struct_test.csprojResolveAssemblyReference.cache
+C:\Users\mosterbe\AppData\Local\Temporary Projects\struct_test\obj\Debug\struct_test.exe
+C:\Users\mosterbe\AppData\Local\Temporary Projects\struct_test\obj\Debug\struct_test.pdb

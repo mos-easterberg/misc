@@ -1,0 +1,6 @@
+D:\dev\misc\C#\misc\properties\abstract_properties\abstract_properties\bin\Debug\abstract_properties.exe.config
+D:\dev\misc\C#\misc\properties\abstract_properties\abstract_properties\bin\Debug\abstract_properties.exe
+D:\dev\misc\C#\misc\properties\abstract_properties\abstract_properties\bin\Debug\abstract_properties.pdb
+D:\dev\misc\C#\misc\properties\abstract_properties\abstract_properties\obj\Debug\abstract_properties.csprojResolveAssemblyReference.cache
+D:\dev\misc\C#\misc\properties\abstract_properties\abstract_properties\obj\Debug\abstract_properties.exe
+D:\dev\misc\C#\misc\properties\abstract_properties\abstract_properties\obj\Debug\abstract_properties.pdb
